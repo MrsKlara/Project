@@ -1,0 +1,7 @@
+name: KlaraBan
+author: MrsKlara
+main: kb.KlaraBan.KlaraBan
+version: 2.0
+commands:
+    klaraban:
+        description: command KlaraBan
